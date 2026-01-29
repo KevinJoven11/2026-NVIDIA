@@ -111,7 +111,7 @@ The designated GPU Acceleration PIC will create an organization in Brev, redeem 
 
     * For all other team members, this will show up under the `Team` tab.
 
-13. Select `Access Notebook` to pull up the notebook environment similar to qBraid. Team mebers should also complete this step. <img align="right" width ="50%" src="images/image-9.png">
+13. Select `Access Notebook` to pull up the notebook environment similar to qBraid. Team members should also complete this step. <img align="right" width ="50%" src="images/image-9.png">
 
     * If team members run into an error when trying to access the environment, go to the instance page, and scroll down to `Using Secure Links`.
 
